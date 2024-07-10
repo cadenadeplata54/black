@@ -1,2 +1,1 @@
-# black
-solo ads terra
+# dospapa
